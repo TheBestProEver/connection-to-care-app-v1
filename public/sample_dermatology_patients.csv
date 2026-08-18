@@ -1,0 +1,7 @@
+first_name,last_name,email,phone,zip,search_radius_miles,insurance_carrier,insurance_plan,urgency_level,screening_notes
+James,Wilson,james.wilson@example.com,(212) 555-3341,10019,20,Blue Cross Blue Shield,Comprehensive PPO,URGENT_RED,Ulcerating nodular growth right cheek. Urgent biopsy needed.
+Hannah,Taylor,hannah.taylor@example.com,(310) 555-8821,90401,25,Aetna,Open Choice PPO,URGENT_RED,Irregular dark macule on upper back >7mm with variegation.
+Robert,Garcia,robert.garcia@example.com,(312) 555-9012,60614,15,UnitedHealthcare,Options PPO,URGENT_RED,Rapidly growing subungual hyperpigmentation thumb.
+Olivia,Davis,olivia.davis@example.com,(713) 555-4478,77030,30,Humana,Gold Plus HMO,URGENT_RED,High clinical suspicion for malignant melanoma on calf.
+William,Martinez,william.martinez@example.com,(206) 555-6623,98101,25,Premera Blue Cross,Heritage Plus,URGENT_RED,Persistent scaling bleeding plaque on scalp non-healing >6 weeks.
+Emily,Brown,emily.brown@example.com,(305) 555-7789,33139,20,Florida Blue,BlueCare,URGENT_RED,Atypical dysplastic nevus with satellite pigmentation.
